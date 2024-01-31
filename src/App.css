@@ -1,0 +1,18 @@
+#root{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.mainContainer{
+  flex-grow: 1;
+  padding: 1rem;
+}
+
+.imgUser{
+  border-style: groove;
+  border-color: black;
+  border-radius: 50%;
+  border-width: .1rem;
+}
